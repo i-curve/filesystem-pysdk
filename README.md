@@ -4,6 +4,11 @@
 
 * [filesystem-pysdk](#filesystem-pysdk)
     * [I. Brief](#i-brief)
+    * [II. Quick tutorial](#ii-quick-tutorial)
+        * [1. create a client](#1-create-a-client)
+        * [2. user manager](#2-user-manager)
+        * [3. bucket manager](#3-bucket-manager)
+        * [4. file manager](#4-file-manager)
 
 <!-- TOC -->
 
